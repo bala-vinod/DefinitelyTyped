@@ -8,7 +8,7 @@ SAP-RuntimeProfile: iflmap
 SAP-NodeType: IFLMAP
 Bundle-Name: ODATAAPITest
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
 Bundle-ManifestVersion: 2
 Bundle-SymbolicName: ODATAAPITest_SAP_1
 ServiceMpc: com.sap.gateway.core.ip.provider.model.CamelModelProvider

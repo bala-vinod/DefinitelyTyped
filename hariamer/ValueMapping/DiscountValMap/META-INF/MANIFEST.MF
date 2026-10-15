@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: DiscountValMap
 Bundle-SymbolicName: DiscountValMap
-Bundle-Version: 1.0.5
+Bundle-Version: 1.0.6
 SAP-BundleType: ValueMapping
 SAP-NodeType: IFLMAP
 Import-Package: com.sap.xi.mapping.camel.valmap
