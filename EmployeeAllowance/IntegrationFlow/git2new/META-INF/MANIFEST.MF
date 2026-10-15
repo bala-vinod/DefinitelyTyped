@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: EmpSOAPAPITest
-Bundle-SymbolicName: EmpSOAPAPITest; singleton:=true
-Bundle-Version: 1.0.6
-SAP-BundleType: SOAPAPIProvider
+Bundle-Name: git2new
+Bundle-SymbolicName: git2new; singleton:=true
+Bundle-Version: 1.0.1
+SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
 Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
@@ -28,10 +28,6 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
  el.spi,com.sap.esb.webservice.audit.log,com.sap.esb.camel.endpoint.conf
  igurator.api,com.sap.esb.camel.jdbc.idempotency.reorg,javax.sql,org.apa
  che.camel.processor.idempotent.jdbc,org.osgi.service.blueprint
-Origin-Bundle-Name: EmpSOAPAPITest
-Origin-Bundle-SymbolicName: EmpSOAPAPITest
-Require-Capability: messagemapping.AllowanceMapping;resolution:=optional
- ;bundleType:String="MessageMapping";source:String="reference"
-Origin-Bundle-Version: 1.0.4
-Origin-ModifiedDate: 1790755079925
+Origin-Bundle-Name: git2new
+Origin-Bundle-SymbolicName: git2new
 
